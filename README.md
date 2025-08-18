@@ -38,5 +38,8 @@
 3. 安装
 - 安装包会在项目的`Setup/Output`下生成
 接下来与`从安装包安装`步骤一样
+
+4. 卸载
+只需要运行安装路径下的`unins000.exe`即可
 ---
 本项目使用了 [stb_image](https://github.com/nothings/stb)
